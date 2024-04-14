@@ -1,3 +1,3 @@
 # hello
 
-is for learning purposes of a github
+for learning purposes of a github
